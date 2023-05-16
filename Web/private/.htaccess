@@ -2,4 +2,4 @@ AuthType Basic
 AuthName  "Restricted access "
 AuthUserFile  "/app/.htpasswd "
 Require valid-user
-management:$apr1$h10xed32$Nc2E9Dnt7TdpwfaS1xM040
+
